@@ -4,9 +4,9 @@
  of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
  Find the sum of all the multiples of 3 or 5 below 1000.
 */
-namespace Problems.Problem_1;
+namespace Problems.Sum_Of_Multiples_Of_3_And_5_Up_To_1000; 
 
-public class Problem_1
+public class Sum_Of_Multiples
 {
     public int[] array = new int[1000];
 
